@@ -20,7 +20,8 @@
                     },
                     "url": "https://github.com/NullClone/MagicaClothColliderBuilder/releases/download/v1.5.3/MagicaClothColliderBuilder-v1.5.3.zip",
                     "repo": "https://nullclone.github.io/vpm-listing/index.json",
-                    "vpmDependencies": {}
+                    "vpmDependencies": {},
+                    "zipSHA256": "508096979C25A0B2C75047FF4BB8228B125698996E072C65A823211C4C2A875B"
                 }
             }
         }
