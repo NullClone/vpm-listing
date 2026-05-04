@@ -6,20 +6,6 @@
     "packages": {
         "com.null.mc2-collider-builder": {
             "versions": {
-                "1.5.1": {
-                    "name": "com.null.mc2-collider-builder",
-                    "version": "1.5.1",
-                    "displayName": "MagicaCloth2 Collider Builder",
-                    "unity": "2022.3",
-                    "license": "MIT",
-                    "licenseUrl": "https://github.com/NullClone/MagicaClothColliderBuilder/blob/main/LICENSE.md",
-                    "changelogUrl": "https://github.com/NullClone/MagicaClothColliderBuilder/blob/main/CHANGELOG.md",
-                    "author": "NullClone",
-                    "legacyFolders": {
-                        "Assets\\MagicaClothColliderBuilder": "00000000000000000000000000000000"
-                    },
-                    "url": "https://github.com/NullClone/MagicaClothColliderBuilder/releases/download/v1.5.1/com.null.mc2-collider-builder-1.5.1.zip"
-                },
                 "1.5.2": {
                     "name": "com.null.mc2-collider-builder",
                     "version": "1.5.2",
@@ -32,6 +18,7 @@
                     "legacyFolders": {
                         "Assets\\MagicaClothColliderBuilder": "00000000000000000000000000000000"
                     },
+                    "vpmDependencies": {},
                     "url": "https://github.com/NullClone/MagicaClothColliderBuilder/releases/download/v1.5.2/MagicaClothColliderBuilder-v1.5.2.zip"
                 }
             }
