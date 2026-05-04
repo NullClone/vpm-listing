@@ -1,1 +1,7 @@
-
+{
+  "name": "null",
+  "id": "com.null.vpm-listing",
+  "url": "https://nullclone.github.io/vpm-listing/index.json",
+  "author": "NullClone",
+  "packages": {}
+}
